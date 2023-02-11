@@ -1,0 +1,4 @@
+C:\Users\admin\source\repos\MyFilter\MyFilter\x64\Debug\MyFilter.vcxproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyFilter\MyFilter\x64\Debug\MyFilter.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\MyFilter\MyFilter\x64\Debug\MyFilter.MainForm.resources
+C:\Users\admin\source\repos\MyFilter\MyFilter\x64\Debug\MyFilter.vcxproj.GenerateResource.cache

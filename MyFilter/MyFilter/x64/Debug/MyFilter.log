@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: два или более файлов с именем MedianFilter.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — ..\..\..\..\Downloads\11.02.2023_1-main (4)\11.02.2023_1-main\MedianFilter.cpp, MedianFilter.cpp.
+  MainForm.cpp
+C:\Users\admin\source\repos\MyFilter\MyFilter\MainForm.h(45,36): warning C4677: medianFilter: сигнатура члена, не являющегося частным, содержит частный тип сборки "MedianFilter"
+C:\Users\admin\source\repos\MyFilter\MyFilter\MedianFilter.h(9,11): message : см. объявление "MedianFilter"
+C:\Users\admin\source\repos\MyFilter\MyFilter\MainForm.h(140,21): warning C4101: e: неиспользованная локальная переменная
+  MedianFilter.cpp
+  Создание кода...
+  MedianFilter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+x64\Debug\MedianFilter.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  MyFilter.vcxproj -> C:\Users\admin\source\repos\MyFilter\x64\Debug\MyFilter.exe
